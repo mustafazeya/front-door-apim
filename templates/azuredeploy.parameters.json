@@ -28,7 +28,7 @@
       "value": "FrontDoorApimDemoAppInsights"
     },
     "apimServiceName": {
-      "value": "FrontDoorApimDemoApim"
+      "value": "FrontDoorApimDemoApim-zeya"
     },
     "apimPublisherEmail": {
       "value": "admin@contoso.com"

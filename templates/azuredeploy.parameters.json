@@ -43,11 +43,11 @@
       "value": 1
     },
     "frontDoorName": {
-      "value": "FrontDoorApimDemoAfd"
+      "value": "FrontDoorApimDemoAfd-zeya"
     },
     "frontDoorFrontendEndpoint": {
       "value": {
-        "name": "MainFrontendEndpoint",
+        "name": "MainFrontendEndpoint-zeya",
         "sessionAffinityEnabledState": "Disabled",
         "sessionAffinityTtlSeconds": 0
       }
